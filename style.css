@@ -1,0 +1,130 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+
+header {
+    background-color: #003285;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 36px;
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+.hero {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.hero img {
+    width: 100%;
+    max-height: 300px;
+    border-radius: 10px;
+}
+
+.hero p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.apa {
+    background-color: #B6BBC4;
+    padding: 50px;
+    margin: 50px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+
+}
+
+.apa h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.apa p{
+    text-align: center;
+}
+
+.apa ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+.apa li {
+    margin-bottom: 10px;
+}
+
+.apa li::before {
+   
+    margin-right: 10px;
+}
+
+.dampak {
+    background-color: #F0F3FF;
+    padding: 50px;
+    margin: 120px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.dampak h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.dampak p{
+    text-align: center;
+}
+
+.dampak ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+.dampak li {
+    margin-bottom: 10px;
+}
+
+.dampak li::before {
+    margin-right: 10px;
+}
+
+.bagaimana {
+    background-color: #B6BBC4;
+    padding: 50px;
+    margin: 50px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.bagaimana h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.bagaimana p{
+    text-align: center;
+}
+.bagaimana ul{
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+.bagaimana li{
+    margin-bottom: 10px ;
+}
